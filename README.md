@@ -11,5 +11,5 @@ The files are as follows:
 
 4. sink_rank - Shows an example of a network with a Sink Rank, constructed using R.
 
-5. pagerank_notepad.pdf - A step-by-step tutorial showing how ApproximatePR was implemented for our report, using Matlab.
+5. pagerank_notepad.pdf - A step-by-step tutorial showing how PageRank and ApproximatePR were implemented for our report, using Matlab.
 
