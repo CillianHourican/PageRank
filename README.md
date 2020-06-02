@@ -1,5 +1,7 @@
 # PageRank
-A project on Personalized PageRank: computation, applications, strategic links, for Complex Networks course. The files are crested as follows:
+A project on Personalized PageRank: computation, applications, strategic links, for Complex Networks course. 
+
+The files are as follows:
 
 1. A PageRank Game - A step-by-step tutorial showing the implementation steps in our section on manipulating PageRank, where we used optimal linking strategies to add links in the network and increase the PageRank of our target node. This is a Python Implementation.
 
